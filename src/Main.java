@@ -9,6 +9,7 @@ public class Main {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setTitle("Title goes here");
         frame.setSize(420,420);
+        frame.setResizable(false);
 
 
         frame.setVisible(true);
