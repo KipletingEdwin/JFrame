@@ -7,5 +7,7 @@ public class Main {
         // JFrame  =  A GUI window to add components to
         JFrame frame = new JFrame();
 
+        frame.setVisible(true);
+
     }
 }
