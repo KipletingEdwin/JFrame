@@ -19,6 +19,9 @@ public class Main {
 //        frame.setVisible(true);
 //        frame.getContentPane().setBackground(new Color(255,0,0)); //change color of background
 
+        MyFrame myFrame = new MyFrame();
+
+
 
 
     }
