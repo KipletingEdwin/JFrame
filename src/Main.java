@@ -14,7 +14,7 @@ public class Main {
         frame.setResizable(false);
 
         frame.setVisible(true);
-        frame.getContentPane().setBackground(new Color(255,255,255)); //change color of background
+        frame.getContentPane().setBackground(new Color(255,0,0)); //change color of background
 
     }
 }
