@@ -6,12 +6,12 @@ import java.awt.*;
 public class Main {
     public static void main(String[] args) {
         // JFrame  =  A GUI window to add components to
+
         JFrame frame = new JFrame();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setTitle("Title goes here");
         frame.setSize(420,420);
         frame.setResizable(false);
-
 
         frame.setVisible(true);
         frame.getContentPane().setBackground(new Color(255,255,255)); //change color of background
